@@ -1,0 +1,6 @@
+[submodule "intelligence-tech-web"]
+	path = intelligence-tech-web
+	url = https://github.com/dipennapit123/intelligencetech.git
+[submodule "intelligence-tech-admin"]
+	path = intelligence-tech-admin
+	url = https://github.com/dipennapit123/intelligencetechadminnepal.git

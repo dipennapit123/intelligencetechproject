@@ -1,0 +1,18 @@
+.DS_Store
+.cursor/
+
+# Never commit env files / secrets
+**/.env
+**/.env.*
+**/.env.local
+**/.env.local.*
+
+# Node/Next build output
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/*.log
+
+# Keep local working copies if present
+_local_*/
